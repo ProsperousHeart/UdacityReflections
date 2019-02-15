@@ -39,4 +39,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you are working on a bug or new feature that is not ready to commit
+    to PROD. Ensures that you don't introduce a bug while someone else
+    is working on something - promotes collaboration. Enables you to
+    work on multiple things at once.
